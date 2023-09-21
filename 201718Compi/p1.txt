@@ -1,0 +1,6 @@
+##
+output 2- 3i; ## CONA
+output 4;   ##A
+output i;
+4-i => c;
+output c;
